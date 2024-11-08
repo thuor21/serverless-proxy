@@ -1,0 +1,15 @@
+{
+    "name": "serverless-proxy",
+    "version": "1.0.0",
+    "description": "Serverless Proxy Function for Netlify",
+    "main": "index.js",
+    "dependencies": {
+        "node-fetch": "^2.7.0"
+    },
+    "scripts": {
+        "dev": "netlify dev"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": []
+}
